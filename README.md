@@ -1,1 +1,1 @@
-1
+AHGCN_PGP：Firstly, we construct an attributed heterogeneous biological network, comprising a gene similarity network, a disease semantic similarity network, and a gene-disease association network. Gene function and human phenotype annotations are used as attributes for genes and diseases, respectively; Secondly, we design a feature encoder based on AHGCN to encode the gene and disease nodes in the attributed heterogeneous network; Finally, a bilinear decoder is used to predict pathogenic genes.
